@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SwipeViews Using ViewPager</string>
+
+    <string name="navigation_view_open">open navigation view</string>
+    <string name="navigation_view_close">close navigation view</string>
+
+</resources>
